@@ -9,3 +9,5 @@ We can build a **Project-Based Learning Platform** designed to help learners fin
 
 ### Vision
 Initially, I started it for practicing working with APIs, but I could'nt find standard practice projects which will give enough experience. So I thought if crowd sourced ratings and suggesions can be in a place, learning anything will be easy.
+
+We will build frontend first and then start backend
