@@ -1,7 +1,7 @@
 
 ## Project-Based Learning Website
 
-We can building a **Project-Based Learning Platform** designed to help learners find and engage with hands-on projects across various domains. The platform will feature:
+We can build a **Project-Based Learning Platform** designed to help learners find and engage with hands-on projects across various domains. The platform will feature:
 
 - **GitHub repositories**, website links, and any other resources related to specific projects.
 - **Ratings** and a variety of **filters** such as skill levels (Basic, Medium, Advanced), making it easier for learners to find suitable projects.
